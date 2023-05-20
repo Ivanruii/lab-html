@@ -79,7 +79,7 @@
 }
 
 .grid-item > img:hover {
-    transition: 0.5s;
+    transition: 0.3s;
     filter: sepia(25%) saturate(120%);
 }
 
@@ -106,6 +106,7 @@
 .item-data > a {
     color: var(--white);
     text-decoration: none;
+    transition: 0.3s;
 }
 
 .item-data > a > p {
